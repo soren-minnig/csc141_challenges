@@ -39,3 +39,5 @@ print("| Lunch Spending Habits |")
 print("-------------------------")
 print("-------------------------")
 print()
+
+# My code changes
