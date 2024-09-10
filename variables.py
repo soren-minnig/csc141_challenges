@@ -1,6 +1,6 @@
 # Soren Minnig
 # Date: 9/4/24
-# This programs prompts the user to input their name, age, and major. Then, it
+# This program prompts the user to input their name, age, and major. Then, it
 # uses that input to create a personalized message.
 
 print("To generate your introduction, I will need some information from you...")
