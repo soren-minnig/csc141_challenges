@@ -9,7 +9,8 @@
     message using their name along with a brief statement on how to play
     this game. Then, using a while loop, continue to ask the user to guess
     a number until they either guess the number correctly or run out of tries. 
-    Your loop should end as soon as either of these conditions are met
+    Your loop should end as soon as either of these conditions are met.
+    Additionally, let the user know if their guess is too low or too high.
 
     *** The user is only allowed 5 attempts ***
 
